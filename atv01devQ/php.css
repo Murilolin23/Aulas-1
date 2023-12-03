@@ -1,0 +1,42 @@
+#un{
+    display: inline-block;
+    padding: 50px;
+    border-radius: 5%;
+    font-size: 60px;
+    font-family: Georgia, 'Times New Roman', Times, serif;
+    background-color: rgba(44, 192, 167, 0.719);
+    margin-top: 10px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    flex-direction: column;
+}
+#do{display: flex;
+    justify-content: center;
+    align-items: center;
+    flex-direction: column;
+}
+body{
+ background-repeat: no-repeat;
+ background-image: url(img/plano.jpg);
+ background-size: cover;
+}
+img{
+border-radius: 4%;
+}
+button{
+    background-color: cornflowerblue;
+    font-family: Arial, Helvetica, sans-serif;
+    font-size: 50px;
+   border-radius: 10%;
+   margin-top: 15px;
+  justify-content: center;
+  margin: 6px;
+   
+}
+#divn{
+display: flex;
+justify-content: center;
+
+}
+h1{margin: 0;}
